@@ -1,7 +1,7 @@
 # gamastudio
 
 Website for GAMA Studio, a residential interior design studio. Live at
-[gamastudio.vercel.app](https://gamastudio.vercel.app).
+[gamastudio.ae](https://gamastudio.ae). 
 
 Five static pages (home, about, services, projects, contact) in plain HTML, CSS and
 JavaScript, with no framework and no build step.
